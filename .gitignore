@@ -1,0 +1,6 @@
+_pycache_/
+*.pyc
+temp.txt
+*.log
+.vscode/
+git
